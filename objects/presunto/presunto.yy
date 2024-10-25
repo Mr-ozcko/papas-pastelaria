@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"queijo",
+  "%Name":"presunto",
   "eventList":[],
   "managed":true,
-  "name":"queijo",
+  "name":"presunto",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosX","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"529",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"465",},
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"queijo_sprite",
-    "path":"sprites/queijo_sprite/queijo_sprite.yy",
+    "name":"presunto_sprite",
+    "path":"sprites/presunto_sprite/presunto_sprite.yy",
   },
   "spriteMaskId":null,
   "tags":[

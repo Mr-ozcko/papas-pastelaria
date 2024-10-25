@@ -1,6 +1,6 @@
-var newIng = instance_create_layer(mouse_x, mouse_y, "Instances", obj);
+var newIng = instance_create_layer(mouse_x, mouse_y, "Ingredients", obj);
 newIng.dragging = true;
-newIng.depth = -1;
+//newIng.depth = -1;
 
 var newArea = instance_create_layer(newIng.areaPosX, newIng.areaPosY, "OverAll", placementArea);
 placementArea.sprite_index = newIng.sprite_index;

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"queijo",
+  "%Name":"carne",
   "eventList":[],
   "managed":true,
-  "name":"queijo",
+  "name":"carne",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosX","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"529",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"465",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosX","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"520",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"443",},
   ],
   "parent":{
     "name":"Ingredients",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"queijo_sprite",
-    "path":"sprites/queijo_sprite/queijo_sprite.yy",
+    "name":"carne_sprite",
+    "path":"sprites/carne_sprite/carne_sprite.yy",
   },
   "spriteMaskId":null,
   "tags":[

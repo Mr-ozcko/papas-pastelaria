@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"queijo",
+  "%Name":"alface",
   "eventList":[],
   "managed":true,
-  "name":"queijo",
+  "name":"alface",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosX","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"529",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"465",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosX","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"520",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"450",},
   ],
   "parent":{
     "name":"Ingredients",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"queijo_sprite",
-    "path":"sprites/queijo_sprite/queijo_sprite.yy",
+    "name":"alface_sprite",
+    "path":"sprites/alface_sprite/alface_sprite.yy",
   },
   "spriteMaskId":null,
   "tags":[
