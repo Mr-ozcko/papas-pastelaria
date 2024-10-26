@@ -1,4 +1,4 @@
-if (instance_exists(pastel_fechado)) {
+if (instance_exists(pastel_fechado) && !frozen) {
 	dragging = true;
 	image_xscale += .05;
 	image_yscale += .05;
