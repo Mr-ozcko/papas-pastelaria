@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"clique",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"pastel_fechado",
+  "eventList":[],
   "managed":true,
-  "name":"clique",
+  "name":"pastel_fechado",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite19",
-    "path":"sprites/Sprite19/Sprite19.yy",
+    "name":"fechado",
+    "path":"sprites/fechado/fechado.yy",
   },
   "spriteMaskId":null,
   "visible":true,

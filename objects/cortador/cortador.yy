@@ -1,11 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"clique",
+  "%Name":"cortador",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"clique",
+  "name":"cortador",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite19",
-    "path":"sprites/Sprite19/Sprite19.yy",
+    "name":"Sprite22",
+    "path":"sprites/Sprite22/Sprite22.yy",
   },
   "spriteMaskId":null,
   "visible":true,

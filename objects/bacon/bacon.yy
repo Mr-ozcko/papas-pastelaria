@@ -9,8 +9,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"464",},
   ],
   "parent":{
-    "name":"Ingredients",
-    "path":"folders/Objects/Ingredients.yy",
+    "name":"Ingredientes",
+    "path":"folders/Objects/Ingredientes.yy",
   },
   "parentObjectId":{
     "name":"ingredientParent",
