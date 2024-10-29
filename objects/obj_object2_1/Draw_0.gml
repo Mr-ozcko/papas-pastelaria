@@ -1,1 +1,0 @@
-draw_pie_healthbar(x, y, timer, timer_duration, #22ff22, 100, 50);

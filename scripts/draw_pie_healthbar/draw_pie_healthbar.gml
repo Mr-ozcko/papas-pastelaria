@@ -1,4 +1,4 @@
-function draw_pie_healthbar(x, y, _value, _max, _color, _radius, _alpha) {
+ function draw_pie_healthbar(x, y, _value, _max, _color, _radius, _alpha) {
 	
 	if (_value > 0) {
 		var i, len, tx, ty, val;
