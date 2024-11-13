@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-/*if (a){
-	global.batata = true;
-};*/
+if place_meeting ( self.x, self.y, obj_B){
+	global.batata3 = true;
+};       
