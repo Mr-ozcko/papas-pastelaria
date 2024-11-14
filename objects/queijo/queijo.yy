@@ -9,8 +9,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},"propertyId":{"name":"areaPosY","path":"objects/ingredientParent/ingredientParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"465",},
   ],
   "parent":{
-    "name":"Ingredients",
-    "path":"folders/Objects/Ingredients.yy",
+    "name":"Ingredientes",
+    "path":"folders/Objects/Ingredientes.yy",
   },
   "parentObjectId":{
     "name":"ingredientParent",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite14",
-    "path":"sprites/Sprite14/Sprite14.yy",
+    "name":"queijo_sprite",
+    "path":"sprites/queijo_sprite/queijo_sprite.yy",
   },
   "spriteMaskId":null,
   "tags":[
