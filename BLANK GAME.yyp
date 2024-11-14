@@ -55,6 +55,7 @@
     {"id":{"name":"chocolateSpawner","path":"objects/chocolateSpawner/chocolateSpawner.yy",},},
     {"id":{"name":"clique","path":"objects/clique/clique.yy",},},
     {"id":{"name":"cortador","path":"objects/cortador/cortador.yy",},},
+    {"id":{"name":"display","path":"objects/display/display.yy",},},
     {"id":{"name":"ingredientParent","path":"objects/ingredientParent/ingredientParent.yy",},},
     {"id":{"name":"massa","path":"objects/massa/massa.yy",},},
     {"id":{"name":"minigame_corte","path":"objects/minigame_corte/minigame_corte.yy",},},
@@ -108,8 +109,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"bancadaRoom","path":"rooms/bancadaRoom/bancadaRoom.yy",},},
     {"roomId":{"name":"pedidos","path":"rooms/pedidos/pedidos.yy",},},
+    {"roomId":{"name":"bancadaRoom","path":"rooms/bancadaRoom/bancadaRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

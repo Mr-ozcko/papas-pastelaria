@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"botao_gerar_pedido",
+  "%Name":"display",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"botao_gerar_pedido",
+  "name":"display",
   "overriddenProperties":[],
   "parent":{
     "name":"inuteis",
@@ -25,14 +25,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"ing_index","filters":[],"listItems":[],"multiselect":false,"name":"ing_index","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite29",
-    "path":"sprites/Sprite29/Sprite29.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
