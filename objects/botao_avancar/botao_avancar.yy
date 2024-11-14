@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"area",
-  "eventList":[],
+  "%Name":"botao_avancar",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"area",
+  "name":"botao_avancar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"inuteis",
+    "path":"folders/Objects/inuteis.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,12 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"Sprite30",
+    "path":"sprites/Sprite30/Sprite30.yy",
   },
   "spriteMaskId":null,
-  "tags":[
-    "area",
-  ],
   "visible":true,
 }
