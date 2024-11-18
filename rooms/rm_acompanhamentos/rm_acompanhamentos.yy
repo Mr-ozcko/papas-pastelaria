@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_68CE9DC9","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},
     {"name":"inst_337923A9","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},
+    {"name":"inst_316F34EB","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,7 @@
         {"$GMRInstance":"v1","%Name":"inst_68CE9DC9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68CE9DC9","objectId":{"name":"acompSpawner","path":"objects/acompSpawner/acompSpawner.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"acompSpawner","path":"objects/acompSpawner/acompSpawner.yy",},"propertyId":{"name":"obj","path":"objects/acompSpawner/acompSpawner.yy",},"resource":{"name":"pinhao","path":"objects/pinhao/pinhao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"pinhao",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.515625,"scaleY":1.765625,"x":96.0,"y":181.0,},
+        {"$GMRInstance":"v1","%Name":"inst_316F34EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_316F34EB","objectId":{"name":"pastel_frito","path":"objects/pastel_frito/pastel_frito.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

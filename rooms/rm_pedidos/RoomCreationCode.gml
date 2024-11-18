@@ -9,3 +9,12 @@ global.ingredientes = [
 	queijo,
 	tomate
 ];
+
+global.pessoas = [
+	azul,
+	preto,
+	roxo_h,
+	roxo_m,
+	verde_h,
+	verde_m
+];
