@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_object1",
+  "%Name":"acompSpawnerParent",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_object1",
+  "name":"acompSpawnerParent",
   "overriddenProperties":[],
   "parent":{
-    "name":"inuteis",
-    "path":"folders/Objects/inuteis.yy",
+    "name":"Parents",
+    "path":"folders/Objects/Parents.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,14 +25,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"placementArea","filters":[],"listItems":[],"multiselect":false,"name":"placementArea","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"area","path":"objects/area/area.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"area","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

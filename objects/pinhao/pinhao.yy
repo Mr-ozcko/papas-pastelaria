@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_object1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"pinhao",
+  "eventList":[],
   "managed":true,
-  "name":"obj_object1",
+  "name":"pinhao",
   "overriddenProperties":[],
   "parent":{
-    "name":"inuteis",
-    "path":"folders/Objects/inuteis.yy",
+    "name":"Acompanhamentos",
+    "path":"folders/Objects/Acompanhamentos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"ingredientParent",
+    "path":"objects/ingredientParent/ingredientParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"pinhao_sprite",
+    "path":"sprites/pinhao_sprite/pinhao_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
