@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"cliente",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"balao_fala",
+  "eventList":[],
   "managed":true,
-  "name":"cliente",
+  "name":"balao_fala",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"azul",
-    "path":"sprites/azul/azul.yy",
+    "name":"fala",
+    "path":"sprites/fala/fala.yy",
   },
   "spriteMaskId":null,
   "visible":true,

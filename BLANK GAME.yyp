@@ -51,6 +51,7 @@
     {"id":{"name":"area","path":"objects/area/area.yy",},},
     {"id":{"name":"bacon","path":"objects/bacon/bacon.yy",},},
     {"id":{"name":"baconSpawner","path":"objects/baconSpawner/baconSpawner.yy",},},
+    {"id":{"name":"balao_fala","path":"objects/balao_fala/balao_fala.yy",},},
     {"id":{"name":"barrinha","path":"objects/barrinha/barrinha.yy",},},
     {"id":{"name":"botao_avancar","path":"objects/botao_avancar/botao_avancar.yy",},},
     {"id":{"name":"botao_gerar_cliente","path":"objects/botao_gerar_cliente/botao_gerar_cliente.yy",},},
