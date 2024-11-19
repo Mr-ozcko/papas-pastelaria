@@ -1,5 +1,6 @@
 randomise();
-global.pedidos = [];
+global.clientes = [];
+
 global.ingredientes = [
 	alface,
 	bacon,
