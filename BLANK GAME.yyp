@@ -40,7 +40,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -98,6 +98,7 @@
     {"id":{"name":"cortado_1","path":"sprites/cortado_1/cortado_1.yy",},},
     {"id":{"name":"cortado_2","path":"sprites/cortado_2/cortado_2.yy",},},
     {"id":{"name":"cortado_3","path":"sprites/cortado_3/cortado_3.yy",},},
+    {"id":{"name":"fala","path":"sprites/fala/fala.yy",},},
     {"id":{"name":"fechado","path":"sprites/fechado/fechado.yy",},},
     {"id":{"name":"order_menu_down","path":"sprites/order_menu_down/order_menu_down.yy",},},
     {"id":{"name":"order_menu_up","path":"sprites/order_menu_up/order_menu_up.yy",},},
