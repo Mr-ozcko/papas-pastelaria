@@ -40,7 +40,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -73,6 +73,7 @@
     {"id":{"name":"obj_object2_1","path":"objects/obj_object2_1/obj_object2_1.yy",},},
     {"id":{"name":"obj_object2","path":"objects/obj_object2/obj_object2.yy",},},
     {"id":{"name":"order_menu","path":"objects/order_menu/order_menu.yy",},},
+    {"id":{"name":"overlay","path":"objects/overlay/overlay.yy",},},
     {"id":{"name":"pastel_fechado","path":"objects/pastel_fechado/pastel_fechado.yy",},},
     {"id":{"name":"pastel_frito","path":"objects/pastel_frito/pastel_frito.yy",},},
     {"id":{"name":"pinhao","path":"objects/pinhao/pinhao.yy",},},
@@ -103,6 +104,7 @@
     {"id":{"name":"fechado","path":"sprites/fechado/fechado.yy",},},
     {"id":{"name":"order_menu_down","path":"sprites/order_menu_down/order_menu_down.yy",},},
     {"id":{"name":"order_menu_up","path":"sprites/order_menu_up/order_menu_up.yy",},},
+    {"id":{"name":"overlay_sprite","path":"sprites/overlay_sprite/overlay_sprite.yy",},},
     {"id":{"name":"pinhao_sprite","path":"sprites/pinhao_sprite/pinhao_sprite.yy",},},
     {"id":{"name":"pre_corte","path":"sprites/pre_corte/pre_corte.yy",},},
     {"id":{"name":"presunto_sprite","path":"sprites/presunto_sprite/presunto_sprite.yy",},},

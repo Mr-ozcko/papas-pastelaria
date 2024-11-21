@@ -14,6 +14,8 @@ function finish_minigame(_sprite) {
 		frozen = false;
 	}
 	pastel_fechado.sprite_index = _sprite;
+	pastel_fechado.cortado = true;
+	pastel_fechado.depth -= 1;
 	instance_destroy(self);
 }
 

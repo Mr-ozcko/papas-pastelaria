@@ -33,9 +33,14 @@ if (!atendido) {
 
 	array_push(global.clientes, _cliente);
 	atendido = true;
-} else {
+} else if (!esperando) {
 	instance_destroy(balao_fala);
 	instance_destroy(ticket);
 	instance_destroy(display);
+	self.image_xscale = .4;
+	self.image_yscale = .4;
+	self.y = 500
+	self.x = 100 * array_length(global.clientes)
+	self.image_alpha = .5
+	esperando = true;
 };
-
