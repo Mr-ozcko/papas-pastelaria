@@ -39,8 +39,9 @@ if (!atendido) {
 	instance_destroy(display);
 	self.image_xscale = .4;
 	self.image_yscale = .4;
-	self.y = 500
+	self.y = 330;
 	self.x = 100 * array_length(global.clientes)
-	self.image_alpha = .5
+	self.image_alpha = .5;
+	self.depth += 1;
 	esperando = true;
 };

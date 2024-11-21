@@ -40,7 +40,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -129,6 +129,8 @@
     {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"Sprite39","path":"sprites/Sprite39/Sprite39.yy",},},
     {"id":{"name":"Sprite42","path":"sprites/Sprite42/Sprite42.yy",},},
+    {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},},
+    {"id":{"name":"Sprite46","path":"sprites/Sprite46/Sprite46.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"tomate_sprite","path":"sprites/tomate_sprite/tomate_sprite.yy",},},

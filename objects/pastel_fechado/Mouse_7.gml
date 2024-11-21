@@ -1,3 +1,5 @@
+if (!cortado) return;
+
 dragging = false;
 instance_destroy(overlay);
 if (self.x > 730) {

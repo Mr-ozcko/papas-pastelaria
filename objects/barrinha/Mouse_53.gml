@@ -7,11 +7,11 @@ function finish_minigame(_sprite) {
 	instance_destroy(minigame_corte);
 	with (cortador) {
 		dragging = false;
-		x = 909;
-		y = 384;
+		x = 901;
+		y = 400;
 		image_xscale = xscale;
 		image_yscale = yscale;
-		frozen = false;
+		//frozen = false;
 	}
 	pastel_fechado.sprite_index = _sprite;
 	pastel_fechado.cortado = true;
