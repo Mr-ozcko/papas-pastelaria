@@ -16,6 +16,7 @@ function finish_minigame(_sprite) {
 	pastel_fechado.sprite_index = _sprite;
 	pastel_fechado.cortado = true;
 	pastel_fechado.depth -= 1;
+	global.pastel_atual_montagem.sprite = _sprite;
 	instance_destroy(self);
 }
 

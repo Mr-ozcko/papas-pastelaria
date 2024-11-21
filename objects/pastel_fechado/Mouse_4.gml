@@ -1,4 +1,4 @@
-if (!cortado) return;
+if (!cortado || room == rm_acompanhamentos) return;
 
 dragging = true;
 self.depth -= 5;
