@@ -11,6 +11,13 @@ global.ingredientes = [
 	tomate
 ];
 
+global.acompanhamentos = [
+	cini,
+	pinhao,
+	quentao,
+	sagu_cheio
+];
+
 global.pessoas = [
 	azul,
 	preto,

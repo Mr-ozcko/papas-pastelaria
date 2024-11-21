@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"pinhao",
+  "%Name":"sagu_cheio",
   "eventList":[],
   "managed":true,
-  "name":"pinhao",
+  "name":"sagu_cheio",
   "overriddenProperties":[],
   "parent":{
     "name":"Acompanhamentos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"pinhao_sprite",
-    "path":"sprites/pinhao_sprite/pinhao_sprite.yy",
+    "name":"Sprite51",
+    "path":"sprites/Sprite51/Sprite51.yy",
   },
   "spriteMaskId":null,
   "visible":true,

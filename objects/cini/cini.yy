@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"pinhao",
+  "%Name":"cini",
   "eventList":[],
   "managed":true,
-  "name":"pinhao",
+  "name":"cini",
   "overriddenProperties":[],
   "parent":{
     "name":"Acompanhamentos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"pinhao_sprite",
-    "path":"sprites/pinhao_sprite/pinhao_sprite.yy",
+    "name":"Sprite49",
+    "path":"sprites/Sprite49/Sprite49.yy",
   },
   "spriteMaskId":null,
   "visible":true,

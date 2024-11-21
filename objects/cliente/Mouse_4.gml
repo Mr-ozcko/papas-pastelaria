@@ -1,10 +1,15 @@
 if (!atendido) {
 	var _ingredientes = global.ingredientes;
+	var _acompanhamentos = global.acompanhamentos;
 	var _pedido = {
 		ingredientes : [
 			_ingredientes[irandom(array_length(_ingredientes) - 1)],
 			_ingredientes[irandom(array_length(_ingredientes) - 1)],
 			_ingredientes[irandom(array_length(_ingredientes) - 1)]
+		],
+		acompanhamentos : [
+			_acompanhamentos[irandom(array_length(_acompanhamentos) - 1)],
+			_acompanhamentos[irandom(array_length(_acompanhamentos) - 1)],
 		],
 		nota : 0
 	};
@@ -22,6 +27,14 @@ if (!atendido) {
 		_ing.depth -= 2;
 		_ing.image_xscale = .25;
 		_ing.image_yscale = .25;
+	}
+	
+	for (var _i = 0; _i < array_length(_pedido.acompanhamentos); _i++) {
+		var _ing = instance_create_layer((_ticket.sprite_width*(_i+1)/2 + _ticket.x - 82), 220, "OverAll", display);
+		_ing.sprite_index = object_get_sprite(_pedido.acompanhamentos[_i]);
+		_ing.depth -= 2;
+		_ing.image_xscale = .4;
+		_ing.image_yscale = .4;
 	}
 
 	var _cliente = {

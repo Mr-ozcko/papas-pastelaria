@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"pinhao",
-  "eventList":[],
+  "%Name":"botao_pedidos_voltar",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"pinhao",
+  "name":"botao_pedidos_voltar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Acompanhamentos",
-    "path":"folders/Objects/Acompanhamentos.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"acompParent",
-    "path":"objects/acompParent/acompParent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"pinhao_sprite",
-    "path":"sprites/pinhao_sprite/pinhao_sprite.yy",
+    "name":"Sprite53",
+    "path":"sprites/Sprite53/Sprite53.yy",
   },
   "spriteMaskId":null,
   "visible":true,
