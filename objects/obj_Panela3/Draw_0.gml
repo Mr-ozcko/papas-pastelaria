@@ -1,7 +1,9 @@
- /// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-	draw_circle_color(x, y, 110,#000000, #000000,false);
+	draw_set_alpha(0.8);
+	draw_circle_color(x, y, 110,#d4a72c, #d4a72c,false);
+	draw_set_alpha(1);
 	if(global.batata3){
-		draw_circle_color(x, y, 110,#ffffff, #ffffff,false);
+		draw_set_alpha(0.1);
+		draw_circle_color(x, y, 110,#785612, #785612,false);
+		draw_set_alpha(1);
+		depth = -1000
 	}
