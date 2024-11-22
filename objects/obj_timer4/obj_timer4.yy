@@ -4,16 +4,20 @@
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_timer4",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"timerParent","path":"objects/timerParent/timerParent.yy",},"propertyId":{"name":"panela_obj","path":"objects/timerParent/timerParent.yy",},"resource":{"name":"obj_Panela4","path":"objects/obj_Panela4/obj_Panela4.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_Panela4",},
+  ],
   "parent":{
     "name":"Fritadeira",
     "path":"folders/Objects/Fritadeira.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"timerParent",
+    "path":"objects/timerParent/timerParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

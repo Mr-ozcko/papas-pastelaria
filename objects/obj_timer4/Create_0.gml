@@ -4,4 +4,4 @@ persistent = true;
 
 timer_=0
 global.valscore4 = 0
-global.batata4 = false
+started = false

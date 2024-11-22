@@ -1,4 +1,4 @@
-if(global.batata2){
+if(started){
 	timer_ += delta_time / 1000000;
 	
 	global.valscore2 = 50
@@ -8,6 +8,6 @@ if(global.batata2){
 	if(timer_-global.timer_duration> global.timer_secundario){
 	global.valscor2 = 0
 	}
-}if (!global.batata2){
+} else {
 	timer_=0
 }

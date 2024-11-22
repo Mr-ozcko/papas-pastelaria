@@ -4,6 +4,6 @@ persistent = true;
 
 global.timer_duration = 20; // altera a duração de todos os timers
 global.timer_secundario = 10 // tbm
-timer_=0
+timer_ = 0;
 global.valscore = 0
-global.batata = false
+started = false;
