@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite24",
-    "path":"sprites/Sprite24/Sprite24.yy",
+    "name":"barrinha_sprite",
+    "path":"sprites/barrinha_sprite/barrinha_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite51",
-    "path":"sprites/Sprite51/Sprite51.yy",
+    "name":"sagu_sprite",
+    "path":"sprites/sagu_sprite/sagu_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

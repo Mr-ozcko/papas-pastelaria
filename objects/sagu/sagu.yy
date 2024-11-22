@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite47",
-    "path":"sprites/Sprite47/Sprite47.yy",
+    "name":"cumbuca_sprite",
+    "path":"sprites/cumbuca_sprite/cumbuca_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

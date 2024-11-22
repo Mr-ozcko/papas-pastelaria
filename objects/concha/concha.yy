@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite48",
-    "path":"sprites/Sprite48/Sprite48.yy",
+    "name":"conhca_sprite",
+    "path":"sprites/conhca_sprite/conhca_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

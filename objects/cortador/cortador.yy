@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite22",
-    "path":"sprites/Sprite22/Sprite22.yy",
+    "name":"cortador_sprite",
+    "path":"sprites/cortador_sprite/cortador_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

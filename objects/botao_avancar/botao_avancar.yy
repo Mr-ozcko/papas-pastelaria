@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
+    "name":"botaoflecha",
+    "path":"sprites/botaoflecha/botaoflecha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

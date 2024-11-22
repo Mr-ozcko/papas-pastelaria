@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite13",
-    "path":"sprites/Sprite13/Sprite13.yy",
+    "name":"massa_sprite",
+    "path":"sprites/massa_sprite/massa_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

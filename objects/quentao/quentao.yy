@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite50",
-    "path":"sprites/Sprite50/Sprite50.yy",
+    "name":"quentao_sprite",
+    "path":"sprites/quentao_sprite/quentao_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
