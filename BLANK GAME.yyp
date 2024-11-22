@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fritadeira","folderPath":"folders/Objects/Fritadeira.yy","name":"Fritadeira","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Ingredientes","folderPath":"folders/Objects/Ingredientes.yy","name":"Ingredientes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"inuteis","folderPath":"folders/Objects/inuteis.yy","name":"inuteis","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Parents","folderPath":"folders/Objects/Parents.yy","name":"Parents","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -77,6 +78,7 @@
     {"id":{"name":"spawnerParent","path":"objects/spawnerParent/spawnerParent.yy",},},
     {"id":{"name":"tomate","path":"objects/tomate/tomate.yy",},},
     {"id":{"name":"tomateSpawner","path":"objects/tomateSpawner/tomateSpawner.yy",},},
+    {"id":{"name":"rm_acompanhamentos","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},},
     {"id":{"name":"rm_fritadeira","path":"rooms/rm_fritadeira/rm_fritadeira.yy",},},
     {"id":{"name":"rm_montagem","path":"rooms/rm_montagem/rm_montagem.yy",},},
     {"id":{"name":"rm_pedidos","path":"rooms/rm_pedidos/rm_pedidos.yy",},},
@@ -117,6 +119,7 @@
     {"roomId":{"name":"rm_montagem","path":"rooms/rm_montagem/rm_montagem.yy",},},
     {"roomId":{"name":"rm_fritadeira","path":"rooms/rm_fritadeira/rm_fritadeira.yy",},},
     {"roomId":{"name":"rm_pedidos","path":"rooms/rm_pedidos/rm_pedidos.yy",},},
+    {"roomId":{"name":"rm_acompanhamentos","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

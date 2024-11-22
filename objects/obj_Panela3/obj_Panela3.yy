@@ -10,8 +10,8 @@
   "name":"obj_Panela3",
   "overriddenProperties":[],
   "parent":{
-    "name":"inuteis",
-    "path":"folders/Objects/inuteis.yy",
+    "name":"Fritadeira",
+    "path":"folders/Objects/Fritadeira.yy",
   },
   "parentObjectId":null,
   "persistent":false,
