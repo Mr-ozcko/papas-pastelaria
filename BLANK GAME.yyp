@@ -116,9 +116,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_pedidos","path":"rooms/rm_pedidos/rm_pedidos.yy",},},
     {"roomId":{"name":"rm_montagem","path":"rooms/rm_montagem/rm_montagem.yy",},},
     {"roomId":{"name":"rm_fritadeira","path":"rooms/rm_fritadeira/rm_fritadeira.yy",},},
-    {"roomId":{"name":"rm_pedidos","path":"rooms/rm_pedidos/rm_pedidos.yy",},},
     {"roomId":{"name":"rm_acompanhamentos","path":"rooms/rm_acompanhamentos/rm_acompanhamentos.yy",},},
   ],
   "templateType":"game",
