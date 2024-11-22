@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"botao_gerar_pedido",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"botao_gerar_pedido",
   "overriddenProperties":[],
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite29",
-    "path":"sprites/Sprite29/Sprite29.yy",
+    "name":"gerarcliente",
+    "path":"sprites/gerarcliente/gerarcliente.yy",
   },
   "spriteMaskId":null,
   "visible":true,

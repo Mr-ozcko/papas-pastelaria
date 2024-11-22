@@ -1,0 +1,2 @@
+atendido = false;
+esperando = false;

@@ -32,5 +32,8 @@
     "path":"sprites/Sprite9/Sprite9.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "area",
+  ],
   "visible":true,
 }
