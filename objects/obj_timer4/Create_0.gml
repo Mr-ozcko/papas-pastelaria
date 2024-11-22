@@ -3,5 +3,5 @@ y = y + sprite_height/2;
 persistent = true;
 
 timer_=0
-global.valscore4 = timer_/global.timer_duration
+global.valscore4 = 0
 global.batata4 = false
