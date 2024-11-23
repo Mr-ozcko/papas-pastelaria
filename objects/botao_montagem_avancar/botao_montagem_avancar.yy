@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"botao_montagem_avancar",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"botao_montagem_avancar",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"flechaParent","path":"objects/flechaParent/flechaParent.yy",},"propertyId":{"name":"target_room","path":"objects/flechaParent/flechaParent.yy",},"resource":{"name":"rm_montagem","path":"rooms/rm_montagem/rm_montagem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_montagem",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"flechaParent",
+    "path":"objects/flechaParent/flechaParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

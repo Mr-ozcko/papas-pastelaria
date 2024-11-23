@@ -16,7 +16,6 @@
     {"name":"inst_20DA2B09","path":"rooms/rm_montagem/rm_montagem.yy",},
     {"name":"inst_6882F4D5","path":"rooms/rm_montagem/rm_montagem.yy",},
     {"name":"inst_19936F20","path":"rooms/rm_montagem/rm_montagem.yy",},
-    {"name":"inst_3FB1EC60","path":"rooms/rm_montagem/rm_montagem.yy",},
     {"name":"inst_4F7A9B36","path":"rooms/rm_montagem/rm_montagem.yy",},
     {"name":"inst_5FB62906","path":"rooms/rm_montagem/rm_montagem.yy",},
   ],
@@ -24,7 +23,6 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"OverAll","depth":-190,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_6882F4D5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6882F4D5","objectId":{"name":"cortador","path":"objects/cortador/cortador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8,"scaleY":0.8,"x":901.0,"y":400.0,},
-        {"$GMRInstance":"v1","%Name":"inst_3FB1EC60","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3FB1EC60","objectId":{"name":"order_menu","path":"objects/order_menu/order_menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":704.0,},
         {"$GMRInstance":"v1","%Name":"inst_4F7A9B36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F7A9B36","objectId":{"name":"botao_pedidos_voltar","path":"objects/botao_pedidos_voltar/botao_pedidos_voltar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":653.5,},
         {"$GMRInstance":"v1","%Name":"inst_5FB62906","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FB62906","objectId":{"name":"botao_fritura_avancar","path":"objects/botao_fritura_avancar/botao_fritura_avancar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":832.0,"y":653.5,},
       ],"layers":[],"name":"OverAll","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},

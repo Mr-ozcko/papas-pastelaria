@@ -19,14 +19,17 @@ instance_destroy(overlay);
 
 if (self.x > 730) {
 	
-	self.ingredientes = global.pastel_atual_montagem.ingredientes;
-	self.score_montagem = global.pastel_atual_montagem.score_montagem
-	self.sprite_index = global.pastel_atual_montagem.sprite;
+	if (room = rm_montagem) {
+		self.ingredientes = global.pastel_atual_montagem.ingredientes;
+		self.score_montagem = global.pastel_atual_montagem.score_montagem
+		self.sprite_index = global.pastel_atual_montagem.sprite;
+	}
+	
 	room_persistent = false;
 	
 	self.persistent = true;
 	dragging = true
-	room_goto_next();
+	room_fade_to(room_next(room));
 	
 } else if (self.x < 35) {
 	room_persistent = false;

@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"botao_fritura_avancar",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"botao_fritura_avancar",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"flechaParent","path":"objects/flechaParent/flechaParent.yy",},"propertyId":{"name":"target_room","path":"objects/flechaParent/flechaParent.yy",},"resource":{"name":"rm_fritadeira","path":"rooms/rm_fritadeira/rm_fritadeira.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_fritadeira",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"flechaParent",
+    "path":"objects/flechaParent/flechaParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

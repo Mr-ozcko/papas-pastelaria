@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_perfeito",
+    "path":"sprites/sprite_perfeito/sprite_perfeito.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

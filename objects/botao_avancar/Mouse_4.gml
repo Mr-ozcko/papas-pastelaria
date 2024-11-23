@@ -1,1 +1,1 @@
-room_goto_next();
+room_fade_to(rm_entregar);
