@@ -1,6 +1,7 @@
 cortado = false;
 ingredientes = [];
 dragging = false;
+score_montagem = 0;
 
 //if (room == rm_fritadeira) {
 //	dragging = true;

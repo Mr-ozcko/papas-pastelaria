@@ -8,6 +8,7 @@ if (room == rm_fritadeira && self.cozimento == "cru") {
 		self.y = _panela.y - (self.sprite_height/2);
 		_panela.timer_obj.started = true;
 	}
+	self.persistent = false;
 	return;
 }
 
@@ -17,8 +18,12 @@ dragging = false;
 instance_destroy(overlay);
 
 if (self.x > 730) {
-	//var _p = room_instance_add(rm_fritadeira, 100, 400, pastel_fechado);
+	
+	self.ingredientes = global.pastel_atual_montagem.ingredientes;
+	self.score_montagem = global.pastel_atual_montagem.score_montagem
+	self.sprite_index = global.pastel_atual_montagem.sprite;
 	room_persistent = false;
+	
 	self.persistent = true;
 	dragging = true
 	room_goto_next();
@@ -26,7 +31,8 @@ if (self.x > 730) {
 } else if (self.x < 35) {
 	room_persistent = false;
 	room_restart();
-} else {
+	
+} else if (room == rm_montagem) {
 	x = 318;
 	y = 401;
-}
+} else dragging = true;

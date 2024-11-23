@@ -8,5 +8,8 @@ if (self.cozimento == "frito")
 else if (self.cozimento == "queimado")
 	self.image_blend = #333333;
 	
-if (room == rm_fritadeira)
-	self.persistent = false;
+if (room = rm_acompanhamentos) {
+	self.x = 250;
+	self.y = 406;
+	dragging = false
+}

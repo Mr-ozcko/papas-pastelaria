@@ -5,12 +5,15 @@ if (place_meeting(x, y, area_acomp) && dragging) {
 	image_yscale = .95;
 	x = area_acomp.x + 50;
 	y = area_acomp.y;
+	
+	array_push(global.acompanhamentos_atuais, self.object_index);
 
 } else if (instance_exists(concha) && place_meeting(x, y, sagu) && dragging) {
 	var _sagu = instance_create_layer(sagu.x, sagu.y, "Acompanhamentos", sagu_cheio);
 	_sagu.image_xscale = .95;
 	_sagu.image_yscale = .95;
 	instance_destroy(sagu);
+	array_push(global.acompanhamentos_atuais, sagu);
 	instance_destroy(self);
 	
 	

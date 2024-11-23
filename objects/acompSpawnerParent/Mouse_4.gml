@@ -1,4 +1,5 @@
 if (instance_number(acompParent) > 1 && self.obj != concha) return;
+if (!instance_exists(pastel_fechado)) return;
 
 var _newAcomp = instance_create_layer(mouse_x, mouse_y, "Acompanhamentos", obj);
 _newAcomp.dragging = true;
