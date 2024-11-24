@@ -18,7 +18,12 @@ if (self.image_alpha >= .99) {
 		_nota.sprite_index = sprite_eh;
 	else
 		_nota.sprite_index = sprite_pessimo;
+		
+	var _scr = instance_create_depth(0, 0, -9999, black_screen);
+	_scr.target_room = rm_montagem;
+	_scr.wait = true;
 	
+	display.persistent = false;
 	instance_destroy(p1);
 	instance_destroy(p2);
 	instance_destroy(self);

@@ -50,7 +50,5 @@ _cli.image_xscale = .95;
 _cli.image_yscale = .95;
 _cli.persistent = true;
 instance_destroy(pastel_fechado);
-room_goto(rm_entregar);
-	
-
-	
+room_persistent = false;
+room_fade_to(rm_entregar);

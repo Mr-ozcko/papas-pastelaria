@@ -23,16 +23,19 @@ if (self.x > 730) {
 		self.ingredientes = global.pastel_atual_montagem.ingredientes;
 		self.score_montagem = global.pastel_atual_montagem.score_montagem
 		self.sprite_index = global.pastel_atual_montagem.sprite;
+		room_persistent = false;
 	}
 	
-	room_persistent = false;
+	if (room == rm_fritadeira)
+		instance_destroy(overlay2);
 	
 	self.persistent = true;
-	dragging = true
+	dragging = true;
 	room_fade_to(room_next(room));
 	
 } else if (self.x < 35) {
 	room_persistent = false;
+	global.pastelArrastado = false
 	room_restart();
 	
 } else if (room == rm_montagem) {

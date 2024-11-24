@@ -1,2 +1,2 @@
 state = "down";
-depth = -900;
+depth = -9999;

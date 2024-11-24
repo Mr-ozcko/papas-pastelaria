@@ -1,6 +1,11 @@
 var _speed = .05;
 
-if (self.image_alpha == 0) instance_destroy(self);
+if (self.image_alpha <= 0) instance_destroy(self);
+
+if (wait == true && waitframes > 0) {
+	waitframes--;
+	return;
+}
 
 if (self.image_alpha < 1 && increasing)
 	self.image_alpha += _speed;

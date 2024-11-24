@@ -28,6 +28,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"target_room","filters":[],"listItems":[],"multiselect":false,"name":"target_room","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_montagem","path":"rooms/rm_montagem/rm_montagem.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_montagem","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"wait","filters":[],"listItems":[],"multiselect":false,"name":"wait","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
