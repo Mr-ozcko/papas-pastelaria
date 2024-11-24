@@ -38,10 +38,10 @@ if (!atendido) {
 	}
 
 	var _cliente = {
-		index : array_length(global.clientes) - 1,
+		index : array_length(global.clientes),
 		sprite : sprite_index,
 		pedido : _pedido,
-		chegada : 0
+		chegada : self.chegada
 	};
 
 	array_push(global.clientes, _cliente);
@@ -50,11 +50,7 @@ if (!atendido) {
 	instance_destroy(balao_fala);
 	instance_destroy(ticket);
 	instance_destroy(display);
-	self.image_xscale = .4;
-	self.image_yscale = .4;
-	self.y = 330;
-	self.x = 100 * array_length(global.clientes)
-	self.image_alpha = .5;
 	self.depth += 1;
+	global.cliente_esperando = false;
 	esperando = true;
 };

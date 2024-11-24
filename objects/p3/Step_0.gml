@@ -20,8 +20,13 @@ if (self.image_alpha >= .99) {
 		_nota.sprite_index = sprite_pessimo;
 		
 	var _scr = instance_create_depth(0, 0, -9999, black_screen);
-	_scr.target_room = rm_montagem;
 	_scr.wait = true;
+	if (global.pedidos_finalizados < 6)
+		_scr.target_room = rm_montagem;
+	else {
+		_scr.target_room = rm_menu;
+		global.terminou = true;
+	}
 	
 	display.persistent = false;
 	instance_destroy(p1);

@@ -1,5 +1,6 @@
 randomise();
 global.clientes = [];
+global.pedidos_finalizados = 0;
 global.pastelArrastado = false;
 global.score_pastel_atual = 0;
 global.score = 0;

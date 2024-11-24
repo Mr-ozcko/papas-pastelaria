@@ -13,7 +13,8 @@ if (place_meeting(x, y, area_acomp) && dragging) {
 	_sagu.image_xscale = .95;
 	_sagu.image_yscale = .95;
 	instance_destroy(sagu);
-	array_push(global.acompanhamentos_atuais, sagu);
+	array_delete(global.acompanhamentos_atuais, array_get_index(global.acompanhamentos_atuais, sagu), 1);
+	array_push(global.acompanhamentos_atuais, sagu_cheio);
 	instance_destroy(self);
 	
 	

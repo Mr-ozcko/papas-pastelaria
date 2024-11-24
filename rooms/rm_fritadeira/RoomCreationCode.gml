@@ -1,0 +1,1 @@
+global.teste = 2;

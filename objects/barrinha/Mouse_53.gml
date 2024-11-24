@@ -21,13 +21,10 @@ function finish_minigame(_sprite) {
 }
 
 if (x >= _green[0] && x <= _green[1]) {
-	placeholder_score.image_blend = c_lime;
 	finish_minigame(cortado_1);
 } else if (x >= _yellow[0] && x <= _yellow[1]) {
-	placeholder_score.image_blend = c_yellow;
 	finish_minigame(cortado_2);
 } else {
-	placeholder_score.image_blend = c_red;
 	finish_minigame(cortado_3);
 }
 

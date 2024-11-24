@@ -19,7 +19,7 @@ instance_destroy(overlay);
 
 if (self.x > 730) {
 	
-	if (room = rm_montagem) {
+	if (room == rm_montagem) {
 		self.ingredientes = global.pastel_atual_montagem.ingredientes;
 		self.score_montagem = global.pastel_atual_montagem.score_montagem
 		self.sprite_index = global.pastel_atual_montagem.sprite;

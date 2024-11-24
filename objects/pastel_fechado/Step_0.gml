@@ -12,8 +12,8 @@ else if (self.cozimento == "queimado")
 	self.image_blend = #333333;
 	
 if (room == rm_acompanhamentos) {
+	self.persistent = false;
 	self.x = 250;
 	self.y = 406;
-	dragging = false
-	self.persistent = false;
+	dragging = false;
 }
